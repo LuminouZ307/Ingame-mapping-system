@@ -6,3 +6,6 @@ Commands (You must login RCON First)
 > '/destroyobject'
 > '/editobject'
 
+> /creatematext
+> /editmatext
+> /destroymatext
